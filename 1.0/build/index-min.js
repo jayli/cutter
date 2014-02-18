@@ -1,2 +1,0 @@
-/*!build time : 2014-02-18 1:24:09 PM*/
-KISSY.add("gallery/cutter/1.0/index",function(a,b,c){function d(a){var b=this;d.superclass.constructor.call(b,a)}b.all;return a.extend(d,c,{},{ATTRS:{}}),d},{requires:["node","base"]});
